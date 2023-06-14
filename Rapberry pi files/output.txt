@@ -1,0 +1,1340 @@
+
+the predicted_class is: 1 and the confidence is: 0.9999834299087524
+the predicted_class is: 1 and the confidence is: 0.9993423819541931
+the predicted_class is: 1 and the confidence is: 0.9998685121536255
+the predicted_class is: 1 and the confidence is: 0.9999732971191406
+the predicted_class is: 1 and the confidence is: 0.9941385984420776
+the predicted_class is: 1 and the confidence is: 0.99998939037323
+the predicted_class is: 1 and the confidence is: 0.9927485585212708
+the predicted_class is: 1 and the confidence is: 0.9999904632568359
+the predicted_class is: 1 and the confidence is: 0.9999760389328003
+Unknown process:
+Process time: 15.597893953323364
+loop number is: 1
+Open the lock process:
+Process time: 0.13473963737487793
+loop number is: 2
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999834299087524
+the predicted_class is: 1 and the confidence is: 0.9993423819541931
+the predicted_class is: 1 and the confidence is: 0.9998685121536255
+the predicted_class is: 1 and the confidence is: 0.9999732971191406
+the predicted_class is: 1 and the confidence is: 0.9941385984420776
+Unknown process:
+Process time: 7.9466164112091064
+loop number is: 1
+Open the lock process:
+Process time: 10.141941547393799
+loop number is: 2
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999834299087524
+the predicted_class is: 1 and the confidence is: 0.9993423819541931
+the predicted_class is: 1 and the confidence is: 0.9998685121536255
+the predicted_class is: 1 and the confidence is: 0.9999732971191406
+the predicted_class is: 1 and the confidence is: 0.9941385984420776
+Open the lock process:
+Process time: 7.985884189605713
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9951961636543274
+the predicted_class is: 1 and the confidence is: 0.9928327798843384
+the predicted_class is: 1 and the confidence is: 0.9991945624351501
+the predicted_class is: 1 and the confidence is: 0.9951961636543274
+the predicted_class is: 1 and the confidence is: 0.9928327798843384
+the predicted_class is: 1 and the confidence is: 0.9991945624351501
+the predicted_class is: 1 and the confidence is: 0.9951961636543274
+the predicted_class is: 1 and the confidence is: 0.9928327798843384
+the predicted_class is: 1 and the confidence is: 0.9991945624351501
+Unknown process:
+Process time: 7.416534900665283
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9951961636543274
+the predicted_class is: 1 and the confidence is: 0.9928327798843384
+the predicted_class is: 1 and the confidence is: 0.9991945624351501
+Unknown process:
+Process time: 7.426776647567749
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.357548236846924
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.41107964515686
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.369651556015015
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.357329368591309
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.419697284698486
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.408540725708008
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.402383804321289
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.937082052230835
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.613109350204468
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.587568998336792
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.628163814544678
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.866077899932861
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.621222972869873
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.5513670444488525
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.439924716949463
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.498568534851074
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999314546585083
+the predicted_class is: 1 and the confidence is: 0.9999514818191528
+the predicted_class is: 1 and the confidence is: 0.9991288781166077
+Open the lock process:
+Process time: 7.584810972213745
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999314546585083
+the predicted_class is: 1 and the confidence is: 0.9999514818191528
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 8.021288633346558
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.619810581207275
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.585373401641846
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.563791513442993
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.531574010848999
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.62958025932312
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.5335798263549805
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.580912351608276
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.585904121398926
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.545905113220215
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.571692943572998
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.580587148666382
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.577028512954712
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.581897020339966
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.5275208950042725
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.5698559284210205
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+the predicted_class is: 1 and the confidence is: 0.9992438554763794
+the predicted_class is: 1 and the confidence is: 0.9992087483406067
+the predicted_class is: 1 and the confidence is: 0.9930283427238464
+Unknown process:
+Process time: 7.913311004638672
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999985694885254
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999949932098389
+Unknown process:
+Process time: 7.47565484046936
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999985694885254
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999949932098389
+Unknown process:
+Process time: 7.45946192741394
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999985694885254
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999985694885254
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999949932098389
+Unknown process:
+Process time: 7.577422142028809
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999985694885254
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999949932098389
+Open the lock process:
+Process time: 7.5798280239105225
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999985694885254
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999949932098389
+Unknown process:
+Process time: 7.490390300750732
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999985694885254
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999949932098389
+Open the lock process:
+Process time: 7.3567821979522705
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999985694885254
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999949932098389
+Unknown process:
+Process time: 7.607853651046753
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999985694885254
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999949932098389
+Unknown process:
+Process time: 7.4573423862457275
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999971389770508
+the predicted_class is: 1 and the confidence is: 0.9999935626983643
+the predicted_class is: 1 and the confidence is: 0.9999973773956299
+Unknown process:
+Process time: 7.390075445175171
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999971389770508
+the predicted_class is: 1 and the confidence is: 0.9999935626983643
+the predicted_class is: 1 and the confidence is: 0.9999973773956299
+Unknown process:
+Process time: 7.4741432666778564
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999971389770508
+the predicted_class is: 1 and the confidence is: 0.9999935626983643
+the predicted_class is: 1 and the confidence is: 0.9999973773956299
+Open the lock process:
+Process time: 7.516282081604004
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9999971389770508
+the predicted_class is: 1 and the confidence is: 0.9999935626983643
+the predicted_class is: 1 and the confidence is: 0.9999973773956299
+Open the lock process:
+Process time: 7.693730354309082
+Amount inside cerification list: 0
+loop number is: 1
+the predicted_class is: 1 and the confidence is: 0.9998143315315247
+the predicted_class is: 1 and the confidence is: 0.9999926090240479
+the predicted_class is: 1 and the confidence is: 0.9999953508377075
+Unknown process:
+Process time: 7.661132335662842
+the predicted_class is: 1 and the confidence is: 0.997257649898529
+the predicted_class is: 1 and the confidence is: 0.9999737739562988
+the predicted_class is: 1 and the confidence is: 0.9999449253082275
+the predicted_class is: 1 and the confidence is: 0.8045310378074646
+the predicted_class is: 0 and the confidence is: 0.5890660285949707
+Unknown process:
+Process time: 7.669836044311523
+the predicted_class is: 0 and the confidence is: 0.9330956339836121
+the predicted_class is: 0 and the confidence is: 0.8519325256347656
+the predicted_class is: 0 and the confidence is: 0.9550212621688843
+the predicted_class is: 1 and the confidence is: 0.9990193843841553
+the predicted_class is: 1 and the confidence is: 0.9954807758331299
+the predicted_class is: 1 and the confidence is: 0.9932511448860168
+Unknown process:
+Process time: 8.94782543182373
+the predicted_class is: 1 and the confidence is: 0.9999765157699585
+the predicted_class is: 1 and the confidence is: 0.9999629259109497
+the predicted_class is: 1 and the confidence is: 0.9999847412109375
+Unknown process:
+Process time: 8.943856477737427
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.99998939037323
+the predicted_class is: 1 and the confidence is: 0.9999861717224121
+the predicted_class is: 1 and the confidence is: 0.9999829530715942
+Unknown process:
+Process time: 8.97729229927063
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9997565150260925
+the predicted_class is: 1 and the confidence is: 0.9999531507492065
+the predicted_class is: 1 and the confidence is: 0.9997735619544983
+Unknown process:
+Process time: 8.929884672164917
+Amount inside cerification list: 0
+Unknown process:
+Process time: 7.5799524784088135
+the predicted_class is: 1 and the confidence is: 0.9999903440475464
+the predicted_class is: 1 and the confidence is: 0.9999873638153076
+the predicted_class is: 1 and the confidence is: 0.999984622001648
+the predicted_class is: 1 and the confidence is: 0.999904990196228
+the predicted_class is: 1 and the confidence is: 0.9999420642852783
+the predicted_class is: 1 and the confidence is: 0.999657154083252
+Unknown process:
+Process time: 8.994553804397583
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9644427299499512
+the predicted_class is: 1 and the confidence is: 0.8756895661354065
+the predicted_class is: 1 and the confidence is: 0.7772804498672485
+Unknown process:
+Process time: 9.0272376537323
+the predicted_class is: 1 and the confidence is: 0.9999816417694092
+the predicted_class is: 1 and the confidence is: 0.9999830722808838
+the predicted_class is: 1 and the confidence is: 0.9999792575836182
+Open the lock process:
+Process time: 8.881064414978027
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9996498823165894
+the predicted_class is: 1 and the confidence is: 0.9997072815895081
+the predicted_class is: 1 and the confidence is: 0.9998119473457336
+Open the lock process:
+Process time: 8.910059452056885
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999864101409912
+the predicted_class is: 1 and the confidence is: 0.9999902248382568
+the predicted_class is: 1 and the confidence is: 0.9999897480010986
+Open the lock process:
+Process time: 8.944231033325195
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9998677968978882
+the predicted_class is: 1 and the confidence is: 0.9999502897262573
+the predicted_class is: 1 and the confidence is: 0.9999651908874512
+Open the lock process:
+Process time: 8.939831733703613
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999256134033203
+the predicted_class is: 1 and the confidence is: 0.9999576807022095
+the predicted_class is: 1 and the confidence is: 0.9999969005584717
+Open the lock process:
+Process time: 8.74268913269043
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9845622181892395
+the predicted_class is: 1 and the confidence is: 0.997409999370575
+the predicted_class is: 1 and the confidence is: 0.9813969135284424
+the predicted_class is: 1 and the confidence is: 0.9980168342590332
+Open the lock process:
+Process time: 8.217826843261719
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999943971633911
+the predicted_class is: 1 and the confidence is: 0.9999978542327881
+the predicted_class is: 1 and the confidence is: 0.9999942779541016
+Open the lock process:
+Process time: 8.982466459274292
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999942779541016
+the predicted_class is: 1 and the confidence is: 0.9999992847442627
+the predicted_class is: 1 and the confidence is: 0.9999992847442627
+Open the lock process:
+Process time: 7.964417457580566
+Amount inside cerification list: 0
+Unknown process:
+Process time: 6.825953722000122
+Unknown process:
+Process time: 6.829636096954346
+Unknown process:
+Process time: 6.84370493888855
+the predicted_class is: 1 and the confidence is: 0.9978971481323242
+the predicted_class is: 1 and the confidence is: 0.9996721744537354
+the predicted_class is: 1 and the confidence is: 0.9998558759689331
+Open the lock process:
+Process time: 8.394883871078491
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999943971633911
+the predicted_class is: 1 and the confidence is: 0.9999994039535522
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9998881816864014
+the predicted_class is: 1 and the confidence is: 0.9998107552528381
+the predicted_class is: 1 and the confidence is: 0.999968409538269
+Unknown process:
+Process time: 8.338634490966797
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999912977218628
+the predicted_class is: 1 and the confidence is: 0.9999997615814209
+the predicted_class is: 1 and the confidence is: 0.9999997615814209
+Open the lock process:
+Process time: 8.34482741355896
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999673366546631
+the predicted_class is: 1 and the confidence is: 0.9999686479568481
+the predicted_class is: 1 and the confidence is: 0.9999668598175049
+Open the lock process:
+Process time: 7.964528322219849
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.999994158744812
+the predicted_class is: 1 and the confidence is: 0.9999918937683105
+the predicted_class is: 1 and the confidence is: 0.9999964237213135
+the predicted_class is: 1 and the confidence is: 0.9984729886054993
+the predicted_class is: 1 and the confidence is: 0.9999938011169434
+the predicted_class is: 1 and the confidence is: 0.9997604489326477
+the predicted_class is: 1 and the confidence is: 0.9999988079071045
+the predicted_class is: 1 and the confidence is: 0.9997921586036682
+the predicted_class is: 1 and the confidence is: 0.9999990463256836
+Unknown process:
+Process time: 9.483934164047241
+Amount inside cerification list: 0
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9882214665412903
+the predicted_class is: 1 and the confidence is: 0.9988654851913452
+the predicted_class is: 1 and the confidence is: 0.9996050000190735
+Unknown process:
+Process time: 7.9750285148620605
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999974966049194
+the predicted_class is: 1 and the confidence is: 0.9999897480010986
+the predicted_class is: 1 and the confidence is: 0.999996542930603
+Open the lock process:
+Process time: 7.924046039581299
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9987433552742004
+the predicted_class is: 1 and the confidence is: 0.9905513525009155
+the predicted_class is: 1 and the confidence is: 0.9929733276367188
+the predicted_class is: 1 and the confidence is: 0.9974633455276489
+the predicted_class is: 1 and the confidence is: 0.998980700969696
+the predicted_class is: 1 and the confidence is: 0.99957674741745
+Open the lock process:
+Process time: 9.149784326553345
+Amount inside cerification list: 0
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9994809031486511
+the predicted_class is: 1 and the confidence is: 0.9999879598617554
+the predicted_class is: 1 and the confidence is: 0.9999889135360718
+Unknown process:
+Process time: 7.947882890701294
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999951124191284
+the predicted_class is: 1 and the confidence is: 0.9999988079071045
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+Open the lock process:
+Process time: 7.9168477058410645
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.999998927116394
+the predicted_class is: 1 and the confidence is: 0.9999998807907104
+the predicted_class is: 1 and the confidence is: 0.9999963045120239
+Open the lock process:
+Process time: 7.927740812301636
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999995231628418
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+Open the lock process:
+Process time: 7.900910377502441
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999996423721313
+the predicted_class is: 1 and the confidence is: 0.9999998807907104
+the predicted_class is: 1 and the confidence is: 0.9999997615814209
+Open the lock process:
+Process time: 8.1133451461792
+Amount inside cerification list: 0
+the predicted_class is: 1 and the confidence is: 0.9999998807907104
+the predicted_class is: 1 and the confidence is: 1.0
+the predicted_class is: 1 and the confidence is: 0.9999998807907104
+the predicted_class is: 1 and the confidence is: 0.9999964237213135
+the predicted_class is: 0 and the confidence is: 0.988307774066925
+the predicted_class is: 0 and the confidence is: 0.9990687966346741
+the predicted_class is: 0 and the confidence is: 0.9243367910385132
+the predicted_class is: 1 and the confidence is: 1.0
+the predicted_class is: 1 and the confidence is: 1.0
+the predicted_class is: 1 and the confidence is: 1.0
+the predicted_class is: 1 and the confidence is: 0.9999990463256836
+the predicted_class is: 1 and the confidence is: 0.9999988079071045
+the predicted_class is: 1 and the confidence is: 0.9999977350234985
+the predicted_class is: 0 and the confidence is: 0.9787321090698242
+the predicted_class is: 0 and the confidence is: 0.6446525454521179
+the predicted_class is: 0 and the confidence is: 0.7206531167030334
+the predicted_class is: 1 and the confidence is: 0.9999996423721313
+the predicted_class is: 1 and the confidence is: 0.999995231628418
+the predicted_class is: 1 and the confidence is: 0.9994878768920898
+the predicted_class is: 1 and the confidence is: 0.9997726082801819
+the predicted_class is: 1 and the confidence is: 0.9999961853027344
+the predicted_class is: 1 and the confidence is: 0.9999953508377075
+the predicted_class is: 1 and the confidence is: 0.9999995231628418
+the predicted_class is: 1 and the confidence is: 0.9999995231628418
+the predicted_class is: 1 and the confidence is: 0.999994158744812
+the predicted_class is: 1 and the confidence is: 0.999985933303833
+the predicted_class is: 1 and the confidence is: 0.9994051456451416
+the predicted_class is: 1 and the confidence is: 0.9998276233673096
+the predicted_class is: 1 and the confidence is: 0.9992792010307312
+the predicted_class is: 1 and the confidence is: 0.9998961687088013
+the predicted_class is: 1 and the confidence is: 0.9999982118606567
+the predicted_class is: 1 and the confidence is: 0.9999971389770508
+the predicted_class is: 1 and the confidence is: 0.9999856948852539
+the predicted_class is: 1 and the confidence is: 0.9999972581863403
+the predicted_class is: 1 and the confidence is: 0.9999592304229736
+the predicted_class is: 1 and the confidence is: 0.9999966621398926
+the predicted_class is: 1 and the confidence is: 0.9999996423721313
+the predicted_class is: 1 and the confidence is: 0.9999998807907104
+the predicted_class is: 1 and the confidence is: 0.9999362230300903
+the predicted_class is: 1 and the confidence is: 0.9999892711639404
+the predicted_class is: 1 and the confidence is: 0.9999388456344604
+the predicted_class is: 1 and the confidence is: 0.9999880790710449
+the predicted_class is: 1 and the confidence is: 0.9999169111251831
+the predicted_class is: 1 and the confidence is: 0.9999692440032959
+the predicted_class is: 0 and the confidence is: 0.9722843766212463
+the predicted_class is: 0 and the confidence is: 0.9979178309440613
+the predicted_class is: 1 and the confidence is: 0.9998798370361328
+the predicted_class is: 1 and the confidence is: 0.999909520149231
+the predicted_class is: 1 and the confidence is: 0.9999839067459106
+the predicted_class is: 1 and the confidence is: 0.9999552965164185
+the predicted_class is: 1 and the confidence is: 0.9999263286590576
+the predicted_class is: 1 and the confidence is: 0.9999737739562988
+the predicted_class is: 1 and the confidence is: 0.9985131621360779
+the predicted_class is: 1 and the confidence is: 0.9997212290763855
+the predicted_class is: 1 and the confidence is: 0.9998618364334106
+the predicted_class is: 1 and the confidence is: 0.9998892545700073
+the predicted_class is: 1 and the confidence is: 0.9999946355819702
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9999970197677612
+the predicted_class is: 1 and the confidence is: 0.9999995231628418
+the predicted_class is: 1 and the confidence is: 0.9999884366989136
+the predicted_class is: 1 and the confidence is: 0.9999364614486694
+the predicted_class is: 1 and the confidence is: 0.999993085861206
+the predicted_class is: 1 and the confidence is: 0.9999994039535522
+the predicted_class is: 1 and the confidence is: 0.9999988079071045
+the predicted_class is: 1 and the confidence is: 0.9999994039535522
+the predicted_class is: 1 and the confidence is: 0.9994931221008301
+the predicted_class is: 1 and the confidence is: 0.9999264478683472
+the predicted_class is: 1 and the confidence is: 0.9999961853027344
+the predicted_class is: 1 and the confidence is: 0.9999946355819702
+the predicted_class is: 1 and the confidence is: 0.9999994039535522
+the predicted_class is: 1 and the confidence is: 0.9999998807907104
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9999997615814209
+the predicted_class is: 1 and the confidence is: 0.9999408721923828
+the predicted_class is: 0 and the confidence is: 0.8079164624214172
+the predicted_class is: 1 and the confidence is: 0.9998483657836914
+the predicted_class is: 0 and the confidence is: 0.9820981621742249
+the predicted_class is: 1 and the confidence is: 0.9999539852142334
+the predicted_class is: 1 and the confidence is: 0.9997755885124207
+the predicted_class is: 1 and the confidence is: 0.9999140501022339
+the predicted_class is: 1 and the confidence is: 0.999833345413208
+the predicted_class is: 1 and the confidence is: 0.9998692274093628
+the predicted_class is: 1 and the confidence is: 0.9999724626541138
+the predicted_class is: 1 and the confidence is: 0.9999469518661499
+the predicted_class is: 1 and the confidence is: 0.9999992847442627
+the predicted_class is: 1 and the confidence is: 0.9999978542327881
+the predicted_class is: 1 and the confidence is: 0.9999998807907104
+the predicted_class is: 1 and the confidence is: 0.9979836940765381
+the predicted_class is: 1 and the confidence is: 0.9996057152748108
+the predicted_class is: 1 and the confidence is: 0.9992675185203552
+the predicted_class is: 1 and the confidence is: 0.9998016953468323
+the predicted_class is: 1 and the confidence is: 0.9999797344207764
+the predicted_class is: 1 and the confidence is: 0.9816386699676514
+the predicted_class is: 1 and the confidence is: 0.9999111890792847
+the predicted_class is: 1 and the confidence is: 0.9962343573570251
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9999994039535522
+the predicted_class is: 1 and the confidence is: 0.9999995231628418
+the predicted_class is: 1 and the confidence is: 0.9999996423721313
+the predicted_class is: 1 and the confidence is: 0.9999895095825195
+the predicted_class is: 1 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9999897480010986
+the predicted_class is: 1 and the confidence is: 0.9999964237213135
+the predicted_class is: 1 and the confidence is: 0.999997615814209
+the predicted_class is: 1 and the confidence is: 0.9999908208847046
+the predicted_class is: 1 and the confidence is: 0.9999948740005493
+the predicted_class is: 1 and the confidence is: 0.9999823570251465
+the predicted_class is: 1 and the confidence is: 0.9999895095825195
+the predicted_class is: 1 and the confidence is: 0.9992377758026123
+the predicted_class is: 1 and the confidence is: 0.9999874830245972
+the predicted_class is: 1 and the confidence is: 0.9999934434890747
+the predicted_class is: 1 and the confidence is: 0.9999874830245972
+the predicted_class is: 1 and the confidence is: 0.9999897480010986
+the predicted_class is: 1 and the confidence is: 0.9999997615814209
+the predicted_class is: 1 and the confidence is: 1.0
+the predicted_class is: 1 and the confidence is: 0.9999978542327881
+the predicted_class is: 1 and the confidence is: 0.9999992847442627
+the predicted_class is: 1 and the confidence is: 0.999997615814209
+the predicted_class is: 1 and the confidence is: 0.9999709129333496
+the predicted_class is: 1 and the confidence is: 0.999991774559021
+the predicted_class is: 1 and the confidence is: 0.9996010661125183
+the predicted_class is: 1 and the confidence is: 0.9999990463256836
+the predicted_class is: 1 and the confidence is: 0.9999988079071045
+the predicted_class is: 1 and the confidence is: 0.9999927282333374
+the predicted_class is: 1 and the confidence is: 0.9999842643737793
+the predicted_class is: 1 and the confidence is: 0.9999654293060303
+the predicted_class is: 1 and the confidence is: 0.999984860420227
+the predicted_class is: 1 and the confidence is: 0.9999743700027466
+the predicted_class is: 1 and the confidence is: 0.9999610185623169
+the predicted_class is: 1 and the confidence is: 0.9991948008537292
+the predicted_class is: 1 and the confidence is: 0.9994493126869202
+the predicted_class is: 1 and the confidence is: 0.9999566078186035
+the predicted_class is: 1 and the confidence is: 0.9993682503700256
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9999990463256836
+the predicted_class is: 1 and the confidence is: 0.9994543194770813
+the predicted_class is: 1 and the confidence is: 0.9990217685699463
+the predicted_class is: 1 and the confidence is: 0.9988915324211121
+the predicted_class is: 1 and the confidence is: 0.9999538660049438
+the predicted_class is: 1 and the confidence is: 0.9880093932151794
+the predicted_class is: 1 and the confidence is: 0.9999594688415527
+the predicted_class is: 1 and the confidence is: 0.999967098236084
+the predicted_class is: 1 and the confidence is: 0.9996064305305481
+the predicted_class is: 1 and the confidence is: 0.9988951086997986
+the predicted_class is: 1 and the confidence is: 0.9994779229164124
+the predicted_class is: 1 and the confidence is: 0.9998455047607422
+the predicted_class is: 1 and the confidence is: 0.9999537467956543
+the predicted_class is: 1 and the confidence is: 0.9999778270721436
+the predicted_class is: 1 and the confidence is: 0.9999420642852783
+the predicted_class is: 1 and the confidence is: 0.9999957084655762
+the predicted_class is: 1 and the confidence is: 0.9999911785125732
+the predicted_class is: 1 and the confidence is: 0.9971445202827454
+the predicted_class is: 1 and the confidence is: 0.9990938901901245
+the predicted_class is: 1 and the confidence is: 0.999996542930603
+the predicted_class is: 1 and the confidence is: 0.9999973773956299
+the predicted_class is: 1 and the confidence is: 0.9965741634368896
+the predicted_class is: 1 and the confidence is: 0.9997205138206482
+the predicted_class is: 1 and the confidence is: 0.999984860420227
+the predicted_class is: 1 and the confidence is: 0.9999843835830688
+the predicted_class is: 1 and the confidence is: 0.9999896287918091
+the predicted_class is: 1 and the confidence is: 0.9999793767929077
+the predicted_class is: 1 and the confidence is: 0.9995502829551697
+the predicted_class is: 1 and the confidence is: 0.9998350143432617
+the predicted_class is: 1 and the confidence is: 0.9999551773071289
+the predicted_class is: 1 and the confidence is: 0.9998902082443237
+the predicted_class is: 1 and the confidence is: 0.9999192953109741
+the predicted_class is: 1 and the confidence is: 0.9998979568481445
+the predicted_class is: 1 and the confidence is: 0.9999775886535645
+the predicted_class is: 1 and the confidence is: 0.9999799728393555
+the predicted_class is: 1 and the confidence is: 0.9999808073043823
+the predicted_class is: 1 and the confidence is: 0.999958872795105
+the predicted_class is: 1 and the confidence is: 0.9964218139648438
+the predicted_class is: 1 and the confidence is: 0.9997171759605408
+the predicted_class is: 1 and the confidence is: 0.9999872446060181
+the predicted_class is: 1 and the confidence is: 0.9999878406524658
+the predicted_class is: 1 and the confidence is: 0.9999918937683105
+the predicted_class is: 0 and the confidence is: 0.999934196472168
+the predicted_class is: 1 and the confidence is: 0.9999910593032837
+the predicted_class is: 1 and the confidence is: 0.9999794960021973
+the predicted_class is: 0 and the confidence is: 0.9999388456344604
+the predicted_class is: 1 and the confidence is: 0.9999738931655884
+the predicted_class is: 1 and the confidence is: 0.9843890070915222
+the predicted_class is: 1 and the confidence is: 0.77918940782547
+the predicted_class is: 1 and the confidence is: 0.9826362133026123
+the predicted_class is: 0 and the confidence is: 0.6065051555633545
+the predicted_class is: 1 and the confidence is: 0.9532202482223511
+the predicted_class is: 1 and the confidence is: 0.9912840127944946
+the predicted_class is: 1 and the confidence is: 0.9860221147537231
+the predicted_class is: 1 and the confidence is: 0.9985175728797913
+the predicted_class is: 1 and the confidence is: 0.9719922542572021
+the predicted_class is: 1 and the confidence is: 0.9948107004165649
+the predicted_class is: 1 and the confidence is: 0.9997872710227966
+the predicted_class is: 1 and the confidence is: 0.9946362376213074
+the predicted_class is: 1 and the confidence is: 0.999721109867096
+the predicted_class is: 1 and the confidence is: 0.9971075654029846
+the predicted_class is: 0 and the confidence is: 0.9999213218688965
+the predicted_class is: 0 and the confidence is: 0.9997230172157288
+the predicted_class is: 1 and the confidence is: 0.9889811277389526
+the predicted_class is: 1 and the confidence is: 0.9343354105949402
+the predicted_class is: 1 and the confidence is: 0.9998824596405029
+the predicted_class is: 1 and the confidence is: 0.999889612197876
+the predicted_class is: 0 and the confidence is: 0.9999960660934448
+the predicted_class is: 0 and the confidence is: 0.9999986886978149
+the predicted_class is: 0 and the confidence is: 0.999984860420227
+the predicted_class is: 0 and the confidence is: 0.9999948740005493
+the predicted_class is: 0 and the confidence is: 0.9898756146430969
+the predicted_class is: 0 and the confidence is: 0.9978679418563843
+the predicted_class is: 0 and the confidence is: 0.9931474328041077
+the predicted_class is: 0 and the confidence is: 0.9617780447006226
+the predicted_class is: 1 and the confidence is: 0.9999083280563354
+the predicted_class is: 1 and the confidence is: 0.9998348951339722
+the predicted_class is: 1 and the confidence is: 0.999964714050293
+the predicted_class is: 1 and the confidence is: 0.9998873472213745
+the predicted_class is: 1 and the confidence is: 0.9998369216918945
+the predicted_class is: 1 and the confidence is: 0.9998365640640259
+the predicted_class is: 1 and the confidence is: 0.999908447265625
+the predicted_class is: 1 and the confidence is: 0.9995966553688049
+the predicted_class is: 1 and the confidence is: 0.9438095688819885
+the predicted_class is: 1 and the confidence is: 0.872111976146698
+the predicted_class is: 0 and the confidence is: 0.9999910593032837
+the predicted_class is: 0 and the confidence is: 0.9999867677688599
+the predicted_class is: 1 and the confidence is: 0.9983662962913513
+the predicted_class is: 1 and the confidence is: 0.9989672899246216
+the predicted_class is: 1 and the confidence is: 0.9998273253440857
+the predicted_class is: 1 and the confidence is: 0.9999802112579346
+the predicted_class is: 1 and the confidence is: 0.9999608993530273
+the predicted_class is: 1 and the confidence is: 0.9999886751174927
+the predicted_class is: 1 and the confidence is: 0.9999328851699829
+the predicted_class is: 1 and the confidence is: 0.9864498972892761
+the predicted_class is: 1 and the confidence is: 0.9976183772087097
+the predicted_class is: 1 and the confidence is: 0.9993411898612976
+the predicted_class is: 1 and the confidence is: 0.9993770718574524
+the predicted_class is: 1 and the confidence is: 0.99359530210495
+the predicted_class is: 1 and the confidence is: 0.9879550933837891
+the predicted_class is: 1 and the confidence is: 0.9991920590400696
+the predicted_class is: 1 and the confidence is: 0.997129499912262
+the predicted_class is: 1 and the confidence is: 0.9999814033508301
+the predicted_class is: 1 and the confidence is: 0.9999163150787354
+the predicted_class is: 1 and the confidence is: 0.9999393224716187
+the predicted_class is: 1 and the confidence is: 0.999945878982544
+the predicted_class is: 0 and the confidence is: 0.999796450138092
+the predicted_class is: 0 and the confidence is: 0.9998397827148438
+the predicted_class is: 1 and the confidence is: 0.9992820620536804
+the predicted_class is: 1 and the confidence is: 0.989102840423584
+the predicted_class is: 1 and the confidence is: 0.8919355273246765
+the predicted_class is: 1 and the confidence is: 0.9997005462646484
+the predicted_class is: 1 and the confidence is: 0.9994739890098572
+the predicted_class is: 1 and the confidence is: 0.9998987913131714
+the predicted_class is: 1 and the confidence is: 0.9997727274894714
+the predicted_class is: 1 and the confidence is: 0.9996155500411987
+the predicted_class is: 1 and the confidence is: 0.836587131023407
+the predicted_class is: 1 and the confidence is: 0.9991371035575867
+the predicted_class is: 1 and the confidence is: 0.7460759878158569
+the predicted_class is: 1 and the confidence is: 0.9999715089797974
+the predicted_class is: 1 and the confidence is: 0.9998319149017334
+the predicted_class is: 0 and the confidence is: 0.550125241279602
+the predicted_class is: 1 and the confidence is: 0.9999856948852539
+the predicted_class is: 1 and the confidence is: 0.9999920129776001
+the predicted_class is: 1 and the confidence is: 0.9998219609260559
+the predicted_class is: 1 and the confidence is: 0.9995039701461792
+the predicted_class is: 1 and the confidence is: 0.999421238899231
+the predicted_class is: 1 and the confidence is: 0.9998492002487183
+the predicted_class is: 1 and the confidence is: 0.980346143245697
+the predicted_class is: 1 and the confidence is: 0.9685894250869751
+the predicted_class is: 1 and the confidence is: 0.9113390445709229
+the predicted_class is: 1 and the confidence is: 0.9481290578842163
+the predicted_class is: 1 and the confidence is: 0.9993751645088196
+the predicted_class is: 1 and the confidence is: 0.9999586343765259
+the predicted_class is: 1 and the confidence is: 0.9999016523361206
+the predicted_class is: 1 and the confidence is: 0.9996682405471802
+the predicted_class is: 1 and the confidence is: 0.9999959468841553
+the predicted_class is: 1 and the confidence is: 0.9999959468841553
+the predicted_class is: 1 and the confidence is: 0.9999958276748657
+the predicted_class is: 1 and the confidence is: 0.9999948740005493
+the predicted_class is: 1 and the confidence is: 0.9999996423721313
+the predicted_class is: 1 and the confidence is: 0.9999833106994629
+the predicted_class is: 1 and the confidence is: 0.9962878227233887
+the predicted_class is: 1 and the confidence is: 0.995153546333313
+the predicted_class is: 1 and the confidence is: 0.8190854787826538
+the predicted_class is: 1 and the confidence is: 0.8765760064125061
+the predicted_class is: 0 and the confidence is: 0.5889370441436768
+the predicted_class is: 0 and the confidence is: 0.5449334979057312
+the predicted_class is: 1 and the confidence is: 0.9996469020843506
+the predicted_class is: 0 and the confidence is: 0.9460342526435852
+the predicted_class is: 1 and the confidence is: 0.999566376209259
+the predicted_class is: 0 and the confidence is: 0.9973111152648926
+the predicted_class is: 1 and the confidence is: 0.9225861430168152
+the predicted_class is: 1 and the confidence is: 0.9987963438034058
+the predicted_class is: 1 and the confidence is: 0.9997034668922424
+the predicted_class is: 0 and the confidence is: 0.9943820834159851
+the predicted_class is: 1 and the confidence is: 0.9983397722244263
+the predicted_class is: 1 and the confidence is: 0.9969546794891357
+the predicted_class is: 1 and the confidence is: 0.9984672665596008
+the predicted_class is: 1 and the confidence is: 0.9947919249534607
+the predicted_class is: 1 and the confidence is: 0.999646782875061
+the predicted_class is: 0 and the confidence is: 0.9967040419578552
+the predicted_class is: 1 and the confidence is: 0.9929664134979248
+the predicted_class is: 0 and the confidence is: 0.998276948928833
+the predicted_class is: 1 and the confidence is: 0.9993348717689514
+the predicted_class is: 1 and the confidence is: 0.9990719556808472
+the predicted_class is: 1 and the confidence is: 0.9330291748046875
+the predicted_class is: 1 and the confidence is: 0.9358352422714233
+the predicted_class is: 1 and the confidence is: 0.7135909795761108
+the predicted_class is: 0 and the confidence is: 0.5962458848953247
+the predicted_class is: 1 and the confidence is: 0.9748649001121521
+the predicted_class is: 1 and the confidence is: 0.989000678062439
+the predicted_class is: 1 and the confidence is: 0.9972510933876038
+the predicted_class is: 1 and the confidence is: 0.9974992871284485
+the predicted_class is: 0 and the confidence is: 0.9580408930778503
+the predicted_class is: 0 and the confidence is: 0.771163284778595
+the predicted_class is: 1 and the confidence is: 0.9550749659538269
+the predicted_class is: 1 and the confidence is: 0.9327808022499084
+the predicted_class is: 1 and the confidence is: 0.9839189052581787
+the predicted_class is: 1 and the confidence is: 0.9520680904388428
+the predicted_class is: 1 and the confidence is: 0.9497601985931396
+the predicted_class is: 1 and the confidence is: 0.9937468767166138
+the predicted_class is: 0 and the confidence is: 0.8756463527679443
+the predicted_class is: 0 and the confidence is: 0.624236524105072
+the predicted_class is: 1 and the confidence is: 0.9977149963378906
+the predicted_class is: 1 and the confidence is: 0.9798269271850586
+the predicted_class is: 1 and the confidence is: 0.5417745113372803
+the predicted_class is: 1 and the confidence is: 0.9020541906356812
+the predicted_class is: 1 and the confidence is: 0.9416476488113403
+the predicted_class is: 1 and the confidence is: 0.8048354983329773
+the predicted_class is: 0 and the confidence is: 0.9983641505241394
+the predicted_class is: 0 and the confidence is: 0.7998878359794617
+the predicted_class is: 0 and the confidence is: 0.9959318041801453
+the predicted_class is: 0 and the confidence is: 0.688568115234375
+the predicted_class is: 0 and the confidence is: 0.8842700123786926
+the predicted_class is: 0 and the confidence is: 0.8316724896430969
+the predicted_class is: 0 and the confidence is: 0.9390610456466675
+the predicted_class is: 0 and the confidence is: 0.8539071679115295
+the predicted_class is: 0 and the confidence is: 0.6168901920318604
+the predicted_class is: 1 and the confidence is: 0.5318796634674072
+the predicted_class is: 0 and the confidence is: 0.9456550478935242
+the predicted_class is: 0 and the confidence is: 0.7809228897094727
+the predicted_class is: 1 and the confidence is: 0.9009760618209839
+the predicted_class is: 1 and the confidence is: 0.92548006772995
+the predicted_class is: 1 and the confidence is: 0.865831732749939
+the predicted_class is: 1 and the confidence is: 0.9947801828384399
+the predicted_class is: 1 and the confidence is: 0.9903950095176697
+the predicted_class is: 0 and the confidence is: 0.9349622130393982
+the predicted_class is: 0 and the confidence is: 0.6532546877861023
+the predicted_class is: 0 and the confidence is: 0.993012011051178
+the predicted_class is: 0 and the confidence is: 0.7878944873809814
+the predicted_class is: 1 and the confidence is: 0.9738242626190186
+the predicted_class is: 1 and the confidence is: 0.9704331755638123
+the predicted_class is: 1 and the confidence is: 0.8774393796920776
+the predicted_class is: 1 and the confidence is: 0.9058098196983337
+the predicted_class is: 1 and the confidence is: 0.9998821020126343
+the predicted_class is: 1 and the confidence is: 0.9993299245834351
+the predicted_class is: 0 and the confidence is: 0.9993839263916016
+the predicted_class is: 0 and the confidence is: 0.9972213506698608
+the predicted_class is: 1 and the confidence is: 0.9754250049591064
+the predicted_class is: 1 and the confidence is: 0.8965797424316406
+the predicted_class is: 0 and the confidence is: 0.8400477766990662
+the predicted_class is: 0 and the confidence is: 0.967032790184021
+the predicted_class is: 1 and the confidence is: 0.928711473941803
+the predicted_class is: 1 and the confidence is: 0.9481039047241211
+the predicted_class is: 0 and the confidence is: 0.8050358295440674
+the predicted_class is: 1 and the confidence is: 0.9975318908691406
+the predicted_class is: 1 and the confidence is: 0.9911940693855286
+the predicted_class is: 0 and the confidence is: 0.7650241851806641
+the predicted_class is: 0 and the confidence is: 0.9387945532798767
+the predicted_class is: 1 and the confidence is: 0.9791122674942017
+the predicted_class is: 1 and the confidence is: 0.9500943422317505
+the predicted_class is: 1 and the confidence is: 0.999870777130127
+the predicted_class is: 1 and the confidence is: 0.9992128610610962
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9999985694885254
+the predicted_class is: 1 and the confidence is: 0.9998394250869751
+the predicted_class is: 1 and the confidence is: 0.9998241066932678
+the predicted_class is: 1 and the confidence is: 0.9999963045120239
+the predicted_class is: 1 and the confidence is: 0.9999904632568359
+the predicted_class is: 1 and the confidence is: 0.9999889135360718
+the predicted_class is: 1 and the confidence is: 0.9998425245285034
+the predicted_class is: 1 and the confidence is: 0.9999794960021973
+the predicted_class is: 1 and the confidence is: 0.9999657869338989
+the predicted_class is: 1 and the confidence is: 0.9998669624328613
+the predicted_class is: 1 and the confidence is: 0.9997497200965881
+the predicted_class is: 1 and the confidence is: 0.9999719858169556
+the predicted_class is: 1 and the confidence is: 0.9999969005584717
+the predicted_class is: 1 and the confidence is: 0.9999972581863403
+the predicted_class is: 1 and the confidence is: 0.9999974966049194
+the predicted_class is: 1 and the confidence is: 0.9999990463256836
+the predicted_class is: 1 and the confidence is: 0.999998927116394
+the predicted_class is: 1 and the confidence is: 0.9969143867492676
+the predicted_class is: 1 and the confidence is: 0.9999871253967285
+the predicted_class is: 1 and the confidence is: 0.999990701675415
+the predicted_class is: 1 and the confidence is: 0.9874404668807983
+the predicted_class is: 1 and the confidence is: 0.9613277912139893
+the predicted_class is: 1 and the confidence is: 0.9999890327453613
+the predicted_class is: 1 and the confidence is: 0.9998804330825806
+the predicted_class is: 1 and the confidence is: 0.9999898672103882
+the predicted_class is: 1 and the confidence is: 0.9998534917831421
+the predicted_class is: 1 and the confidence is: 0.9999982118606567
+the predicted_class is: 1 and the confidence is: 0.9996793270111084
+the predicted_class is: 1 and the confidence is: 0.9999939203262329
+the predicted_class is: 1 and the confidence is: 0.999993085861206
+the predicted_class is: 1 and the confidence is: 0.9999980926513672
+the predicted_class is: 1 and the confidence is: 0.999996542930603
+the predicted_class is: 1 and the confidence is: 0.9999886751174927
+the predicted_class is: 1 and the confidence is: 0.9999934434890747
+the predicted_class is: 1 and the confidence is: 0.9999992847442627
+the predicted_class is: 1 and the confidence is: 0.9999992847442627
+the predicted_class is: 1 and the confidence is: 0.9999964237213135
+the predicted_class is: 1 and the confidence is: 0.9999969005584717
+the predicted_class is: 1 and the confidence is: 0.9999995231628418
+the predicted_class is: 1 and the confidence is: 0.9999996423721313
+the predicted_class is: 1 and the confidence is: 0.9999990463256836
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9999990463256836
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9999997615814209
+the predicted_class is: 1 and the confidence is: 0.9999997615814209
+the predicted_class is: 1 and the confidence is: 0.9951356053352356
+the predicted_class is: 1 and the confidence is: 0.9965421557426453
+the predicted_class is: 1 and the confidence is: 0.9999960660934448
+the predicted_class is: 1 and the confidence is: 0.9999812841415405
+the predicted_class is: 1 and the confidence is: 0.9999994039535522
+the predicted_class is: 1 and the confidence is: 0.9999994039535522
+the predicted_class is: 1 and the confidence is: 0.9999951124191284
+the predicted_class is: 1 and the confidence is: 0.9999978542327881
+the predicted_class is: 1 and the confidence is: 0.9999982118606567
+the predicted_class is: 1 and the confidence is: 0.9999972581863403
+the predicted_class is: 1 and the confidence is: 0.9999696016311646
+the predicted_class is: 1 and the confidence is: 0.9999872446060181
+the predicted_class is: 1 and the confidence is: 0.999963641166687
+the predicted_class is: 1 and the confidence is: 0.9999746084213257
+the predicted_class is: 1 and the confidence is: 0.9999988079071045
+the predicted_class is: 1 and the confidence is: 0.999993085861206
+the predicted_class is: 1 and the confidence is: 0.9999191761016846
+the predicted_class is: 1 and the confidence is: 0.9998217225074768
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9999983310699463
+the predicted_class is: 1 and the confidence is: 0.9999972581863403
+the predicted_class is: 1 and the confidence is: 0.9999926090240479
+the predicted_class is: 1 and the confidence is: 0.9999700784683228
+the predicted_class is: 1 and the confidence is: 0.9998857975006104
+the predicted_class is: 1 and the confidence is: 0.9999510049819946
+the predicted_class is: 1 and the confidence is: 0.9997590184211731
+the predicted_class is: 1 and the confidence is: 0.9999278783798218
+the predicted_class is: 1 and the confidence is: 0.999786913394928
+the predicted_class is: 1 and the confidence is: 0.9993355870246887
+the predicted_class is: 1 and the confidence is: 0.9987165927886963
+the predicted_class is: 1 and the confidence is: 0.9999821186065674
+the predicted_class is: 1 and the confidence is: 0.999929666519165
+the predicted_class is: 1 and the confidence is: 0.999995231628418
+the predicted_class is: 1 and the confidence is: 0.9999890327453613
+the predicted_class is: 1 and the confidence is: 0.9999856948852539
+the predicted_class is: 1 and the confidence is: 0.9999217987060547
+the predicted_class is: 1 and the confidence is: 0.9995638728141785
+the predicted_class is: 1 and the confidence is: 0.9988262057304382
+the predicted_class is: 1 and the confidence is: 0.9987952709197998
+the predicted_class is: 1 and the confidence is: 0.9978644251823425
+the predicted_class is: 1 and the confidence is: 0.98996502161026
+the predicted_class is: 1 and the confidence is: 0.9816402792930603
+the predicted_class is: 1 and the confidence is: 0.9993743300437927
+the predicted_class is: 1 and the confidence is: 0.9957464337348938
+the predicted_class is: 1 and the confidence is: 0.9983365535736084
+the predicted_class is: 1 and the confidence is: 0.9987838864326477
+the predicted_class is: 1 and the confidence is: 0.9874107241630554
+the predicted_class is: 1 and the confidence is: 0.9655539393424988
+the predicted_class is: 1 and the confidence is: 0.9990215301513672
+the predicted_class is: 1 and the confidence is: 0.9989169836044312
+the predicted_class is: 1 and the confidence is: 0.9995984435081482
+the predicted_class is: 1 and the confidence is: 0.994494616985321
+the predicted_class is: 1 and the confidence is: 0.999600350856781
+the predicted_class is: 1 and the confidence is: 0.9981288313865662
+the predicted_class is: 1 and the confidence is: 0.9990443587303162
+the predicted_class is: 1 and the confidence is: 0.999210000038147
+the predicted_class is: 1 and the confidence is: 0.9934296011924744
+the predicted_class is: 1 and the confidence is: 0.9811674356460571
+the predicted_class is: 1 and the confidence is: 0.9973702430725098
+the predicted_class is: 1 and the confidence is: 0.9980593323707581
+the predicted_class is: 1 and the confidence is: 0.9999886751174927
+the predicted_class is: 1 and the confidence is: 0.9999938011169434
+the predicted_class is: 1 and the confidence is: 0.999994158744812
+the predicted_class is: 1 and the confidence is: 0.9999943971633911
+the predicted_class is: 1 and the confidence is: 0.9984980821609497
+the predicted_class is: 1 and the confidence is: 0.9809408783912659
+the predicted_class is: 1 and the confidence is: 0.8519546389579773
+the predicted_class is: 1 and the confidence is: 0.7939913868904114
+the predicted_class is: 1 and the confidence is: 0.9999833106994629
+the predicted_class is: 1 and the confidence is: 0.9999645948410034
+the predicted_class is: 1 and the confidence is: 0.9625311493873596
+the predicted_class is: 1 and the confidence is: 0.6645680069923401
+the predicted_class is: 1 and the confidence is: 0.9641808867454529
+the predicted_class is: 1 and the confidence is: 0.9857357144355774
+the predicted_class is: 1 and the confidence is: 0.9997243285179138
+the predicted_class is: 1 and the confidence is: 0.999600350856781
+the predicted_class is: 1 and the confidence is: 0.988413393497467
+the predicted_class is: 1 and the confidence is: 0.9762553572654724
+the predicted_class is: 1 and the confidence is: 0.8769049644470215
+the predicted_class is: 1 and the confidence is: 0.5103261470794678
+the predicted_class is: 0 and the confidence is: 0.5226972103118896
+the predicted_class is: 0 and the confidence is: 0.7961535453796387
+the predicted_class is: 0 and the confidence is: 0.7047637701034546
+the predicted_class is: 1 and the confidence is: 0.5930293202400208
+the predicted_class is: 1 and the confidence is: 0.9562289118766785
+the predicted_class is: 1 and the confidence is: 0.9761823415756226
+the predicted_class is: 1 and the confidence is: 0.5033815503120422
+the predicted_class is: 1 and the confidence is: 0.5947831273078918
+the predicted_class is: 0 and the confidence is: 0.9990584254264832
+the predicted_class is: 0 and the confidence is: 0.99712735414505
+the predicted_class is: 0 and the confidence is: 0.967498779296875
+the predicted_class is: 0 and the confidence is: 0.9811035394668579
+the predicted_class is: 1 and the confidence is: 0.5638391971588135
+the predicted_class is: 1 and the confidence is: 0.9375311732292175
+the predicted_class is: 1 and the confidence is: 0.9992579817771912
+the predicted_class is: 1 and the confidence is: 0.9891746044158936
+the predicted_class is: 1 and the confidence is: 0.9962493777275085
+the predicted_class is: 1 and the confidence is: 0.9806522130966187
+the predicted_class is: 1 and the confidence is: 0.9997971653938293
+the predicted_class is: 1 and the confidence is: 0.999761164188385
+the predicted_class is: 1 and the confidence is: 0.9998944997787476
+the predicted_class is: 1 and the confidence is: 0.9998047947883606
+the predicted_class is: 1 and the confidence is: 0.9999583959579468
+the predicted_class is: 1 and the confidence is: 0.9998641014099121
+the predicted_class is: 1 and the confidence is: 0.9999208450317383
+the predicted_class is: 1 and the confidence is: 0.9999504089355469
+the predicted_class is: 1 and the confidence is: 0.9999949932098389
+the predicted_class is: 1 and the confidence is: 0.9997993111610413
+the predicted_class is: 1 and the confidence is: 0.999954104423523
+the predicted_class is: 1 and the confidence is: 0.999860405921936
+the predicted_class is: 1 and the confidence is: 0.9980555772781372
+the predicted_class is: 1 and the confidence is: 0.9813112616539001
+the predicted_class is: 1 and the confidence is: 0.9999537467956543
+the predicted_class is: 1 and the confidence is: 0.9998902082443237
+the predicted_class is: 1 and the confidence is: 0.9997935891151428
+the predicted_class is: 1 and the confidence is: 0.9994729161262512
+the predicted_class is: 1 and the confidence is: 0.9991447925567627
+the predicted_class is: 1 and the confidence is: 0.9979856014251709
+the predicted_class is: 1 and the confidence is: 0.9998751878738403
+the predicted_class is: 1 and the confidence is: 0.999803364276886
+the predicted_class is: 1 and the confidence is: 0.9882138967514038
+the predicted_class is: 1 and the confidence is: 0.9728707075119019
+the predicted_class is: 1 and the confidence is: 0.9224466681480408
+the predicted_class is: 1 and the confidence is: 0.9599879384040833
+the predicted_class is: 1 and the confidence is: 0.9923824667930603
+the predicted_class is: 1 and the confidence is: 0.9705295562744141
+the predicted_class is: 1 and the confidence is: 0.9953436255455017
+the predicted_class is: 1 and the confidence is: 0.9999486207962036
+the predicted_class is: 1 and the confidence is: 0.9999843835830688
+the predicted_class is: 1 and the confidence is: 0.9982421398162842
+the predicted_class is: 1 and the confidence is: 0.9929296374320984
+the predicted_class is: 1 and the confidence is: 0.9892420172691345
+the predicted_class is: 1 and the confidence is: 0.9997922778129578
+the predicted_class is: 1 and the confidence is: 0.9981445074081421
+the predicted_class is: 1 and the confidence is: 0.9999927282333374
+the predicted_class is: 1 and the confidence is: 0.9999922513961792
+the predicted_class is: 1 and the confidence is: 0.9999980926513672
+the predicted_class is: 1 and the confidence is: 0.9999997615814209
+the predicted_class is: 1 and the confidence is: 0.9999960660934448
+the predicted_class is: 1 and the confidence is: 0.9999974966049194
+the predicted_class is: 1 and the confidence is: 0.999998927116394
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9999961853027344
+the predicted_class is: 1 and the confidence is: 0.999997615814209
+the predicted_class is: 1 and the confidence is: 0.9999998807907104
+the predicted_class is: 1 and the confidence is: 0.9999001026153564
+the predicted_class is: 1 and the confidence is: 0.9999997615814209
+the predicted_class is: 1 and the confidence is: 0.9999779462814331
+the predicted_class is: 1 and the confidence is: 0.9999969005584717
+the predicted_class is: 1 and the confidence is: 0.999998927116394
+the predicted_class is: 1 and the confidence is: 0.9999966621398926
+the predicted_class is: 1 and the confidence is: 0.9999996423721313
+the predicted_class is: 1 and the confidence is: 0.999998927116394
+the predicted_class is: 1 and the confidence is: 0.9999983310699463
+the predicted_class is: 1 and the confidence is: 0.9985995888710022
+the predicted_class is: 1 and the confidence is: 0.9999992847442627
+the predicted_class is: 1 and the confidence is: 0.9999986886978149
+the predicted_class is: 1 and the confidence is: 0.9997697472572327
+the predicted_class is: 1 and the confidence is: 0.9997697472572327
+the predicted_class is: 1 and the confidence is: 0.9999979734420776
+the predicted_class is: 1 and the confidence is: 0.9999994039535522
+the predicted_class is: 1 and the confidence is: 0.9999947547912598
+the predicted_class is: 1 and the confidence is: 0.9999988079071045
+the predicted_class is: 1 and the confidence is: 0.999998927116394
+the predicted_class is: 1 and the confidence is: 0.999998927116394
+the predicted_class is: 1 and the confidence is: 0.9729422926902771
+the predicted_class is: 1 and the confidence is: 0.9981029033660889
+the predicted_class is: 1 and the confidence is: 0.9860113859176636
+the predicted_class is: 1 and the confidence is: 0.9981763362884521
+the predicted_class is: 0 and the confidence is: 0.9999977350234985
+the predicted_class is: 0 and the confidence is: 0.9999982118606567
+the predicted_class is: 0 and the confidence is: 0.9999994039535522
+the predicted_class is: 0 and the confidence is: 0.9999980926513672
+the predicted_class is: 0 and the confidence is: 0.801654577255249
+the predicted_class is: 1 and the confidence is: 0.787653923034668
+the predicted_class is: 1 and the confidence is: 0.6763534545898438
+the predicted_class is: 1 and the confidence is: 0.9777358770370483
+the predicted_class is: 0 and the confidence is: 0.9973090887069702
+the predicted_class is: 0 and the confidence is: 0.9949733018875122
+the predicted_class is: 1 and the confidence is: 0.8924238085746765
+the predicted_class is: 1 and the confidence is: 0.9748066663742065
+the predicted_class is: 1 and the confidence is: 0.9577078223228455
+the predicted_class is: 1 and the confidence is: 0.9967813491821289
+the predicted_class is: 0 and the confidence is: 0.9998199343681335
+the predicted_class is: 0 and the confidence is: 0.9999542236328125
+the predicted_class is: 1 and the confidence is: 0.9898384809494019
+the predicted_class is: 1 and the confidence is: 0.9894730448722839
+the predicted_class is: 1 and the confidence is: 0.9946045279502869
+the predicted_class is: 1 and the confidence is: 0.9584867358207703
+the predicted_class is: 1 and the confidence is: 0.9999986886978149
+the predicted_class is: 1 and the confidence is: 0.9996271133422852
+the predicted_class is: 0 and the confidence is: 0.9999818801879883
+the predicted_class is: 0 and the confidence is: 0.9999891519546509
+the predicted_class is: 0 and the confidence is: 0.99997878074646
+the predicted_class is: 0 and the confidence is: 0.9999886751174927
+the predicted_class is: 0 and the confidence is: 0.9999951124191284
+the predicted_class is: 0 and the confidence is: 0.9999967813491821
+the predicted_class is: 0 and the confidence is: 0.9999651908874512
+the predicted_class is: 0 and the confidence is: 0.9999210834503174
+the predicted_class is: 0 and the confidence is: 0.9999614953994751
+the predicted_class is: 0 and the confidence is: 0.9999957084655762
+the predicted_class is: 1 and the confidence is: 0.9984498023986816
+the predicted_class is: 1 and the confidence is: 0.9960160851478577
+the predicted_class is: 1 and the confidence is: 0.9999991655349731
+the predicted_class is: 1 and the confidence is: 0.9999997615814209
+the predicted_class is: 1 and the confidence is: 0.9893962740898132
+the predicted_class is: 1 and the confidence is: 0.9990389347076416
+the predicted_class is: 1 and the confidence is: 0.9999972581863403
+the predicted_class is: 0 and the confidence is: 0.9996330738067627
+the predicted_class is: 0 and the confidence is: 0.9997519850730896
+the predicted_class is: 0 and the confidence is: 0.9997519850730896
+the predicted_class is: 1 and the confidence is: 0.9999992847442627
+the predicted_class is: 1 and the confidence is: 0.9999992847442627
+the predicted_class is: 1 and the confidence is: 0.9997243285179138
+the predicted_class is: 0 and the confidence is: 0.9999910593032837
+the predicted_class is: 1 and the confidence is: 0.9999420642852783
+the predicted_class is: 0 and the confidence is: 0.999958872795105
+the predicted_class is: 1 and the confidence is: 0.9589205384254456
+the predicted_class is: 1 and the confidence is: 0.9998658895492554
+the predicted_class is: 1 and the confidence is: 0.9974668025970459
+the predicted_class is: 1 and the confidence is: 0.9998513460159302
+the predicted_class is: 1 and the confidence is: 0.9999624490737915
+the predicted_class is: 0 and the confidence is: 0.9997603297233582
+the predicted_class is: 0 and the confidence is: 0.9997206330299377
+the predicted_class is: 1 and the confidence is: 0.9999920129776001
+the predicted_class is: 0 and the confidence is: 0.9999525547027588
+the predicted_class is: 0 and the confidence is: 0.9999715089797974
+the predicted_class is: 0 and the confidence is: 0.9999858140945435
+the predicted_class is: 0 and the confidence is: 0.9999978542327881
+the predicted_class is: 1 and the confidence is: 0.982750415802002
+the predicted_class is: 1 and the confidence is: 0.9965885877609253
+the predicted_class is: 0 and the confidence is: 0.9999998807907104
+the predicted_class is: 0 and the confidence is: 0.9999990463256836
+the predicted_class is: 0 and the confidence is: 0.9999998807907104
+the predicted_class is: 0 and the confidence is: 0.9999984502792358
+the predicted_class is: 1 and the confidence is: 0.9820631742477417
+the predicted_class is: 1 and the confidence is: 0.9700908064842224
+the predicted_class is: 1 and the confidence is: 0.9849143624305725
+the predicted_class is: 1 and the confidence is: 0.9903160929679871
+the predicted_class is: 0 and the confidence is: 0.9999994039535522
+the predicted_class is: 0 and the confidence is: 0.9999963045120239
+the predicted_class is: 0 and the confidence is: 0.9999997615814209
+the predicted_class is: 0 and the confidence is: 0.9999969005584717
+the predicted_class is: 0 and the confidence is: 0.9997945427894592
+the predicted_class is: 0 and the confidence is: 0.9998879432678223
+the predicted_class is: 1 and the confidence is: 0.9994563460350037
+the predicted_class is: 1 and the confidence is: 0.9994826316833496
+the predicted_class is: 0 and the confidence is: 0.9999994039535522
+the predicted_class is: 0 and the confidence is: 0.9999997615814209
+the predicted_class is: 0 and the confidence is: 0.9998918771743774
+the predicted_class is: 0 and the confidence is: 0.9995728135108948
+the predicted_class is: 1 and the confidence is: 0.9999904632568359
+the predicted_class is: 1 and the confidence is: 0.9999819993972778
+the predicted_class is: 0 and the confidence is: 0.9999467134475708
+the predicted_class is: 0 and the confidence is: 0.9999340772628784
+the predicted_class is: 0 and the confidence is: 0.8604835271835327
+the predicted_class is: 0 and the confidence is: 0.6394245028495789
+the predicted_class is: 1 and the confidence is: 0.9866043925285339
+the predicted_class is: 1 and the confidence is: 0.9964673519134521
+the predicted_class is: 1 and the confidence is: 0.7616749405860901
+the predicted_class is: 1 and the confidence is: 0.9302682280540466
+the predicted_class is: 0 and the confidence is: 0.7119637131690979
+the predicted_class is: 0 and the confidence is: 0.7481333017349243
+the predicted_class is: 1 and the confidence is: 0.8616927266120911
+the predicted_class is: 1 and the confidence is: 0.993171215057373
+the predicted_class is: 1 and the confidence is: 0.9510999917984009
+the predicted_class is: 1 and the confidence is: 0.9752137064933777
+the predicted_class is: 1 and the confidence is: 0.9594658613204956
+the predicted_class is: 1 and the confidence is: 0.9664632081985474
+the predicted_class is: 0 and the confidence is: 0.9603636860847473
+the predicted_class is: 0 and the confidence is: 0.9563940763473511
+the predicted_class is: 1 and the confidence is: 0.7118115425109863
+the predicted_class is: 1 and the confidence is: 0.5696257948875427
+the predicted_class is: 0 and the confidence is: 0.9693331122398376
+the predicted_class is: 0 and the confidence is: 0.8808675408363342
+the predicted_class is: 0 and the confidence is: 0.9860952496528625
+the predicted_class is: 0 and the confidence is: 0.9875704646110535
+the predicted_class is: 0 and the confidence is: 0.8742675185203552
+the predicted_class is: 0 and the confidence is: 0.9764896035194397
+the predicted_class is: 0 and the confidence is: 0.9948127269744873
+the predicted_class is: 0 and the confidence is: 0.8030420541763306
+the predicted_class is: 1 and the confidence is: 0.9995371103286743
+the predicted_class is: 1 and the confidence is: 0.9994065761566162
+the predicted_class is: 1 and the confidence is: 0.9998971223831177
+the predicted_class is: 1 and the confidence is: 0.9999954700469971
+the predicted_class is: 1 and the confidence is: 0.9999756813049316
+the predicted_class is: 1 and the confidence is: 0.9999842643737793
+the predicted_class is: 1 and the confidence is: 0.9999698400497437
+the predicted_class is: 1 and the confidence is: 0.9997580647468567
+the predicted_class is: 1 and the confidence is: 0.9998847246170044
+the predicted_class is: 1 and the confidence is: 0.9992319345474243
+the predicted_class is: 1 and the confidence is: 0.9998687505722046
+the predicted_class is: 1 and the confidence is: 0.9369021654129028
+the predicted_class is: 1 and the confidence is: 0.998702883720398
+the predicted_class is: 1 and the confidence is: 0.9979842901229858
+the predicted_class is: 1 and the confidence is: 0.9997308850288391
+the predicted_class is: 1 and the confidence is: 0.999272882938385
+the predicted_class is: 1 and the confidence is: 0.9993442893028259
+the predicted_class is: 1 and the confidence is: 0.9992627501487732
+the predicted_class is: 1 and the confidence is: 0.9964446425437927
+the predicted_class is: 1 and the confidence is: 0.9941459894180298
+the predicted_class is: 1 and the confidence is: 0.9996906518936157
+the predicted_class is: 1 and the confidence is: 0.9998452663421631
+the predicted_class is: 1 and the confidence is: 0.9993901252746582
+the predicted_class is: 1 and the confidence is: 0.9983900785446167
+the predicted_class is: 0 and the confidence is: 0.999993085861206
+the predicted_class is: 1 and the confidence is: 0.9999979734420776
+the predicted_class is: 0 and the confidence is: 0.999992847442627
+the predicted_class is: 1 and the confidence is: 0.9999982118606567
+the predicted_class is: 0 and the confidence is: 0.9999983310699463
+the predicted_class is: 0 and the confidence is: 0.9999961853027344
+the predicted_class is: 0 and the confidence is: 0.9999985694885254
+the predicted_class is: 0 and the confidence is: 0.9999953508377075

@@ -1,0 +1,67 @@
+{% extends "master.html" %}
+
+
+
+{% block title %}
+  Adding a person
+{% endblock %}
+
+{% block content %}
+<h1>Add a Person</h1>
+<form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    <label for="fullname">Full Name:</label>
+    <input type="text" name="fullname" required>
+	<br>
+	<label for="image">Image:</label>
+    <input type="file" name="image" accept="image/*" required onchange="showPreview(event);">
+	
+	<img id="preview" src="#" alt="Preview" style="display: none; max-width: 300px; max-height: 300px;">
+    
+	<br>
+    <button type="submit">Add Person</button>
+</form>
+
+<style>
+	form label {
+	  display: inline-block;
+	  margin-bottom: 10px;
+	}
+
+	form input[type="text"],
+	form input[type="file"] {
+	  display: block;
+	  margin-bottom: 20px;
+	}
+    img#preview {
+      max-width: 300px;
+      max-height: 300px;
+      margin-top: 10px;
+    }
+
+    @media only screen and (min-width: 768px) {
+      img#preview {
+        float: left;
+        margin-right: 20px;
+        margin-top: 0;
+      }
+    }
+  </style>
+
+<script>
+    function showPreview(event) {
+      var input = event.target;
+      var preview = document.getElementById('preview');
+      
+      if (input.files && input.files[0]) {
+        var reader = new FileReader();
+        reader.onload = function(e) {
+          preview.src = e.target.result;
+          preview.style.display = 'block';
+          document.getElementById('submit-btn').style.display = 'block';
+        }
+        reader.readAsDataURL(input.files[0]);
+      }
+    }
+  </script>
+{% endblock %}

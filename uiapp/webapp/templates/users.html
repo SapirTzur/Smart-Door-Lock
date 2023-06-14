@@ -1,0 +1,37 @@
+{% extends "master.html" %}
+
+{% block title %}
+  My members - List of all members
+{% endblock %}
+
+
+{% block content %}
+
+  <p><a href="/">Log out</a></p>
+  <p><a href="add_person/">Add a person</a></p>
+ 
+ 
+ 
+  <h1>Members</h1>
+  
+  <form method="POST" action="{% url 'delete_approved' user_id=user_id %}">
+  {% csrf_token %}
+  <ul>
+		{% for x in my_approved %}
+		
+		  <li>
+			<label>
+			  <input type="checkbox" name="selected_approved" value="{{ x.id }}">
+			  <a href="details/{{ x.id }}">{{ x.full_name }}</a>
+			</label>
+		  </li>
+		  
+		{% endfor %}
+  </ul>
+  <button type="submit">Delete Selected Approved</button>
+ </form>
+ 
+{% endblock %}
+
+
+	
